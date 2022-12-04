@@ -1,4 +1,4 @@
-package org.example.spring_data_2.controller;
+package org.example.spring_data_2.dto;
 
 import lombok.Builder;
 import lombok.Data;
